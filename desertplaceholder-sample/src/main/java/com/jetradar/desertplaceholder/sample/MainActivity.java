@@ -17,9 +17,11 @@
 package com.jetradar.desertplaceholder.sample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.jetradar.desertplaceholder.DesertPlaceholder;
 
 public class MainActivity extends AppCompatActivity {
